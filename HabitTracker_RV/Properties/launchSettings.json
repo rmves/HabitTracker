@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HabitTracker_RV": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\RV4\\Projects\\HabitTracker_RV\\HabitTracker_RV\\"
+    }
+  }
+}
